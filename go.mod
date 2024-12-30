@@ -1,4 +1,4 @@
-module VRCOSC
+module github.com/SayukiDev/VRCOSC
 
 go 1.23.3
 
